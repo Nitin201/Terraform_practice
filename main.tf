@@ -12,4 +12,5 @@ resource "aws_instance" "linux_vm" {
     name = "nitin-vm"
   }
 
+
 }
